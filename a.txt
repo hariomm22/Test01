@@ -1,3 +1,2 @@
 1st line added by master 
-2nd line added by child 
 3rd line added by master 
